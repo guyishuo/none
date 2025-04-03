@@ -23,6 +23,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+i18n:
+  active: zh-cn # 设置默认语言为简体中文
+  locales:
+    - en
+    - zh-cn # 包含简体中文语言包
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
